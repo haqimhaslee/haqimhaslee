@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m @haqimhaslee
 - 👀 I’m interested in Computer & Programming [(Learn More)](#about-my-profile)
 - 🌱 I’m currently learning HTML,CSS,Phyton,C,Kotlin and Flutter [(Learn More)](#about-my-profile)
@@ -24,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ❗For announcements about new releases and breaking changes, see my official
 [website](https://haqim-haslee.web.app)❗
 
-## About my Profile
+## About my Github Profile
 
 I think this all of these code will help the others to create and learn to code with a productive,
 extensible and open development model.
