@@ -9,53 +9,38 @@ haqimhaslee/haqimhaslee is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-# [![Flutter logo][]][flutter.dev]
-
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
 
 This repositories is all of the code things.
 
-## Documentation
+## Social Pages
 
 * [Official Website](https://haqim-haslee.web.app)
+* [Google Developers Profile]([https://haqim-haslee.web.app](https://developers.google.com/profile/u/haqimhaslee)
 * [Facebook](https://www.facebook.com/haqimhaslee)
 * [Twitter](https://twitter.com/haqimhaslee26)
 * [Instagram](https://www.instagram.com/haqim.haslee/?hl=en)
 * [LinkedIn](https://my.linkedin.com/in/haqim-haslee-166b00113)
 
-For announcements about new releases and breaking changes, follow the
-[haqimhaslee@googlegroups.com](https://groups.google.com/g/haqimhaslee)
-mailing list or see the
+For announcements about new releases and breaking changes, see the
 [breaking changes](https://haqim-haslee.web.app) page.
 
-## Terms of service
-
-Not available for now
-
-## About This repositories
+## About my Profile
 
 I think this all of these code will help the others to create and learn to code with a productive,
 extensible and open development model.
 
-### Beautiful user experiences
+### Learn to code
 
-We want to enable designers to deliver their full creative vision without being
-forced to water it down due to limitations of the underlying framework.
-Flutter's [layered architecture] gives you control over every pixel on the
-screen and its powerful compositing capabilities let you overlay and animate
-graphics, video, text, and controls without limitation. Flutter includes a full
-[set of widgets][widget catalog] that deliver pixel-perfect experiences on both
-iOS and Android.
+<Not abvailable for now>
 
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
 
 ### Productive development
-
-Flutter offers stateful hot reload, allowing you to make changes to your code
-and see the results instantly without restarting your app or losing its state.
+  
+<Not abvailable for now>
 
 ### Extensible and open model
 
