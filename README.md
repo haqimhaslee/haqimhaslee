@@ -4,7 +4,7 @@
 - 👀 I’m interested in Computer & Programming [(Learn More)](#about-my-profile)
 - 🌱 I’m currently learning HTML,CSS,Phyton,C,Kotlin and Flutter [(Learn More)](#about-my-profile)
 - 💞️ I’m looking to collaborate on App/Website dev
-- 📫 Anything you can reach [me](https://github.com/haqimhaslee/haqimhaslee/edit/main/README.md#social-pages)
+- 📫 Anything you can reach [me](#social-pages)
 
 <!---
 haqimhaslee/haqimhaslee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
