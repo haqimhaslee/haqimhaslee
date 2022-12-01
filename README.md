@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I’m @haqimhaslee
-- 👀 I’m interested in Computer & Programming [(Learn More)](#about-my-profile)
-- 🌱 I’m currently learning HTML,CSS,Phyton,C,Kotlin and Flutter [(Learn More)](#about-my-profile)
+- 👀 I’m interested in Computer & Programming. [Learn More](#about-my-github-profile)
+- 🌱 I’m currently learning HTML,CSS,Phyton,C,Kotlin and Flutter. [Learn More](#about-my-github-profile)
 - 💞️ I’m looking to collaborate on App/Website dev
 - 📫 Anything you can reach [me](#social-pages)
 
@@ -33,17 +33,17 @@ extensible and open development model.
 
 ### Learn to code
 
-Not available for now
+* Not available for now
 
 <!---   <p align="center"><img src="LINK"></p>   --->
 
 ### Productive development
   
-Not available for now
+* Not available for now
 
 ### Extensible and open model
 
-Not available for now
+* Not available for now
 
 [Flutter logo]: https://github.com/flutter/website/blob/archived-master/src/_assets/image/flutter-lockup-bg.jpg?raw=true
 [flutter.dev]: https://flutter.dev
