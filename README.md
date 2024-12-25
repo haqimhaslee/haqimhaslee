@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Social Pages
 
-* [Official Website](https://haqim-haslee.web.app)
+* [Official Website](https://www.haqimhaslee.my)
 * [Google Developers Profile](https://developers.google.com/profile/u/haqimhaslee)
 * [Facebook](https://www.facebook.com/haqimhaslee)
 * [Twitter](https://twitter.com/haqimhaslee26)
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 * [LinkedIn](https://my.linkedin.com/in/haqim-haslee-166b00113)
 
 ❗For announcements about new releases and breaking changes, see my official
-[website](https://haqim-haslee.web.app)❗
+[website](https://www.haqimhaslee.my)❗
 
 ## About my Github Profile
 
