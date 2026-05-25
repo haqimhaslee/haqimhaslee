@@ -1,13 +1,20 @@
-## About Me
+# Hi, I'm Haqim Haslee
 
-- 👋 Hi, I’m @haqimhaslee
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-<!---
-haqimhaslee/haqimhaslee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pr ofile.
-You can click the Preview link to take a look at your changes.
---->  
-
-[![Twitter handle][]][Twitter badge]
+## About Me:
 
 ## Social Pages
 
