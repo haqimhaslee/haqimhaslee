@@ -14,42 +14,14 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-## About Me:
+### Hello there 👋
 
-## Social Pages
+#### A Full-Stack Developer that continue learning (cuz learning never stops)
 
-* [Google Developers Profile](https://developers.google.com/profile/u/haqimhaslee)
-* [Facebook](https://www.facebook.com/haqimhaslee)
-* [Twitter](https://twitter.com/haqimhaslee26)
-* [Instagram](https://www.instagram.com/haqim.haslee/?hl=en)
-* [LinkedIn](https://my.linkedin.com/in/haqim-haslee-166b00113)
+Founder and Full-Stack Developer at [Qim Lab](https://qimlab.my);<br>
+Google Developers Group [GDG KL](https://g.dev/haqimhaslee);<br>
 
-## About my Github Profile
-
-I think this all of these code will help the others to create and learn to code with a productive,
-extensible and open development model.
-
-### Learn to code
-
-* Not available for now
-
-<!---   <p align="center"><img src="LINK"></p>   --->
-
-### Productive development
-  
-* Not available for now
-
-### Extensible and open model
-
-* Not available for now
-
-[Flutter logo]: https://github.com/flutter/website/blob/archived-master/src/_assets/image/flutter-lockup-bg.jpg?raw=true
-[flutter.dev]: https://flutter.dev
-[Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
-[Build status]: https://cirrus-ci.com/github/flutter/flutter/master
-[Discord instructions]: https://github.com/flutter/flutter/wiki/Chat
-[Discord badge]: https://img.shields.io/discord/608014603317936148
-[Twitter handle]: https://img.shields.io/twitter/follow/haqimhaslee26.svg?style=social&label=Follow
-[Twitter badge]: https://twitter.com/intent/follow?screen_name=haqimhaslee26
-
-© Haqim Haslee
+- ⚙️ I use daily: `.dart`, `.js`, `.html`, `.css`, `.py`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: [Campus Hub](https://campushub.my),, [Pengembara Nomad](https://www.pengembaranomad.com.my), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **UI/UX**, **sofware dev**, **mobile app dev**, **website dev**, **cloud**
