@@ -3,23 +3,19 @@
 - 👋 Hi, I’m @haqimhaslee
 
 <!---
-haqimhaslee/haqimhaslee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+haqimhaslee/haqimhaslee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pr ofile.
 You can click the Preview link to take a look at your changes.
---->
+--->  
 
 [![Twitter handle][]][Twitter badge]
 
 ## Social Pages
 
-* [Official Website](https://www.haqimhaslee.my)
 * [Google Developers Profile](https://developers.google.com/profile/u/haqimhaslee)
 * [Facebook](https://www.facebook.com/haqimhaslee)
 * [Twitter](https://twitter.com/haqimhaslee26)
 * [Instagram](https://www.instagram.com/haqim.haslee/?hl=en)
 * [LinkedIn](https://my.linkedin.com/in/haqim-haslee-166b00113)
-
-❗For announcements about new releases and breaking changes, see my official
-[website](https://www.haqimhaslee.my)❗
 
 ## About my Github Profile
 
@@ -49,4 +45,4 @@ extensible and open development model.
 [Twitter handle]: https://img.shields.io/twitter/follow/haqimhaslee26.svg?style=social&label=Follow
 [Twitter badge]: https://twitter.com/intent/follow?screen_name=haqimhaslee26
 
-© 2022 Haqim Haslee
+© Haqim Haslee
