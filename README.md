@@ -14,14 +14,16 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-### Hello there 👋
 
-#### A Full-Stack Developer that continue learning (cuz learning never stops)
+####Hello there 👋, Im a Full-Stack Developer that keep learning new things (cuz learning never stops)
+#Glad you landing here ><
+![me](https://github.com/haqimhaslee/haqimhaslee/blob/main/giphy.gif)
 
-Founder and Full-Stack Developer at [Qim Lab](https://qimlab.my);<br>
-Google Developers Group [GDG KL](https://g.dev/haqimhaslee);<br>
-
-- ⚙️ I use daily: `.dart`, `.js`, `.html`, `.css`, `.py`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: [Campus Hub](https://campushub.my),, [Pengembara Nomad](https://www.pengembaranomad.com.my), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **UI/UX**, **sofware dev**, **mobile app dev**, **website dev**, **cloud**
+####Here's a little bit about me
+- Founder, Managing Director and Full-Stack Developer at [Qim Lab](https://qimlab.my);<br>
+- Google Developers Group [GDG KL](https://g.dev/haqimhaslee);<br>
+- ⚙️ I use daily: `.dart`, `.js`, `.html`, `.css`, `.py` (and you list down more)
+- 🌍 I'm mostly active within the **Flutter Community**
+- Gemini API Google Solution Challenge APAC -Participant
+- 💅 Designed: [Campus Hub](https://campushub.my), [Pengembara Nomad](https://www.pengembaranomad.com.my), etc.
+- 💬 `ping` me at `haqimhaslee@qimlab.my` about **UI/UX**, **sofware dev**, **mobile app dev**, **website dev**, **cloud**
