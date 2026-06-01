@@ -16,7 +16,7 @@
 
 
 #### Hello there 👋, Im a Full-Stack Developer that keep learning new things (cuz learning never stops)
-#Glad you landing here ><
+# WOW you made it here ><
 <img src="https://github.com/haqimhaslee/haqimhaslee/blob/main/giphy.gif?raw=true" alt="me" width="100%">
 
 #### Here's a little bit about me
